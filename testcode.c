@@ -4,16 +4,7 @@ void main()
 {
     printf("somethxczcing");
 
-    printf("somethxczcing");
-    printf("somethxczcing");
-    printf("somethxczcing");
-    printf("somethxczcing");
-    printf("somethxczcing");
-    printf("somethxczcing");
-    printf("somethxczcing");
-    printf("somethxczcing");
-    printf("somethxczcing");
-
-
+    printf("branch2");
+    
    return ;
 }
