@@ -2,9 +2,7 @@
 
 void main()
 {
-    printf("somethxczcing");
-
-    printf("branch2");
+        printf("branch2");
     
    return ;
 }
